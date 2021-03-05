@@ -24,3 +24,6 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![](https://recordit.co/LeMeYNbrp2)
+
+
+
