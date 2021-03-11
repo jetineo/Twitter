@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![]()
+![](http://g.recordit.co/9w3imJ9U3z.gif)
 
 
 # Twitter - Part I
